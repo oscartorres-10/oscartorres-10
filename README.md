@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! 👋🏼
+
+Eterno aprendiz. Apasionado por la organización, privacidad y productividad, y su intersección en el software.
 
 <!--
 **oscartorres-10/oscartorres-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
