@@ -2,7 +2,7 @@
 
 # Oscar Torres
 
-### Frontend engineer building AI products<span style="color:#993399">.</span>
+### Software engineer building AI products<span style="color:#993399">.</span>
 
 **React &amp; TypeScript · AI &amp; LLMs**
 
@@ -12,7 +12,7 @@
 
 [![Website](https://img.shields.io/badge/oscartorres.xyz-993399?style=flat-square&logo=arc&logoColor=white)](https://oscartorres.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-993399?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9IiNmZmZmZmYiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjMyIDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzlNNi44OCA4LjU2YTEuNjggMS42OCAwIDAgMCAxLjY4LTEuNjhjMC0uOTMtLjc1LTEuNjktMS42OC0xLjY5YTEuNjkgMS42OSAwIDAgMC0xLjY5IDEuNjljMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSA5Ljk0di04LjM3SDUuNXY4LjM3aDIuNzdaIi8+PC9zdmc+)](https://www.linkedin.com/in/oscartorres10/)
-[![Résumé](https://img.shields.io/badge/Résumé-993399?style=flat-square&logo=readdotcv&logoColor=white)](https://www.oscartorres.xyz/Oscar_Torres_Frontend_Engineer.pdf)
+[![Résumé](https://img.shields.io/badge/Résumé-993399?style=flat-square&logo=readdotcv&logoColor=white)](https://www.oscartorres.xyz/Oscar_Torres_Software_Engineer.pdf)
 [![Email](https://img.shields.io/badge/oscar@oscartorres.xyz-993399?style=flat-square&logo=maildotru&logoColor=white)](mailto:oscar@oscartorres.xyz)
 
 </div>
@@ -21,7 +21,7 @@
 
 ## About
 
-Senior Frontend Engineer with 5+ years of experience shipping applications with React and TypeScript. I care about frontend architecture, web performance and user experience.
+Senior Software Engineer with 5+ years of experience shipping applications with React and TypeScript. I care about frontend architecture, web performance and user experience.
 
 ## Now
 
@@ -59,7 +59,8 @@ Working on a 1-year program tailored for driven software engineers aiming to sol
 
 ## Credentials
 
-**Information Technology Analyst** · ORT University · 2024
+- **Information Technology Analyst** · ORT University · 2024
+- **DevOps Certification** · ORT University · 2024
 
 ---
 
